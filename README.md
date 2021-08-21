@@ -1,0 +1,2 @@
+# Secure-File-Storage-in-Cloud-Computing-using-Modified-Cryptography-Algorithm
+In Cloud Storage, we share data among many clients, server and people. Thus, the security of information present in cloud is not guaranteed since it is easy for  an intruder to access and demolish the first type of information. So, there is  requirement of some plainly key which help us to do cross breed encryption and  protect the data.
